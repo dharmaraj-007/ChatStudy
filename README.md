@@ -102,8 +102,6 @@ while True:
             print(ack)
             i+=s
 ```
-```
-
 
 ## Server:
 
@@ -119,7 +117,8 @@ while True:
 ## OUTPUT:
 ## Client:
 
-![image](https://github.com/sruthiviswanadham/ChatStudy/assets/151760421/0617c067-4727-40d6-b4d1-f4f03ddca91b)
+![image](https://github.com/dharmaraj-007/ChatStudy/assets/119560386/52aee463-26fc-4d9a-af81-e32898fc11c9)
+
 
 ## Server:
 
